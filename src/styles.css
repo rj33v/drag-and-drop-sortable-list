@@ -1,0 +1,38 @@
+body {
+    background-color: #f5f5f5;
+}
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.colourlist-item {
+    padding: 12px;
+    margin-bottom: 6px;
+    background-color: green;
+}
+
+.one {
+    background-color: #f28da8;
+}
+
+.two {
+    background-color: #73cfd9;
+}
+
+.three {
+    background-color: #08a66c;
+}
+
+.four {
+    background-color: #f2b138;
+}
+
+.five {
+    background-color: #f24141;
+}
